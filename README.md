@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green"/>
 </p>
 
-# Link bios
+# Link Bios
 Pagina web com os links para redes sociais e sites. 
 
 ## 🚀 Objetivo
@@ -10,7 +10,7 @@ Desenvolver uma página web para compartilhar seus links de redes sociais ou lin
 Nesse projeto foi desenvolvido para GR7 Tecnologia <a href="https://www.gr7tecnologia.com.br/contato/" target="_blank">Veja Aqui</a>.
 
 ## ✒️ Autor
-Projeto Site Tahiti Motel desenvolvido por:
+Projeto Link Bios desenvolvido por:
 
 * Francisvan Oliveira - Desenvolvedor
     - Instagram <a href="https://www.instagram.com/francisvan_oliveira/" target="_blank">@francisvan_oliveira</a>
